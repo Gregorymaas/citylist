@@ -1,0 +1,26 @@
+{
+  "name": "citylist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregorymaas/citylist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregorymaas/citylist/issues"
+  },
+  "homepage": "https://github.com/Gregorymaas/citylist#readme",
+  "dependencies": {
+    "query-string": "^6.14.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
